@@ -44,7 +44,7 @@ Installation Steps
 Clone the repository:
 
 bash  
-git clone https://github.com/yourusername/ai-resume-builder.git  
+git clone git clone https://github.com/Spado22/Fire4s-AI-Resume-Builder/edit/main/README.md  
 cd ai-resume-builder  
 Install dependencies for the frontend:
 
